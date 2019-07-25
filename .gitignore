@@ -1,4 +1,18 @@
-# Byte-compiled / optimized / DLL files
+# User defined
+.idea/
+.draft/
+*.bak
+*.bak.*
+0*.py
+local_urls.py
+*.sqlite3
+.project
+.pydevproject
+.DS_Store
+README_DEV.md
+
+# Byte-comls
+piled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class

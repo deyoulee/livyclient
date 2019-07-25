@@ -8,5 +8,10 @@
 - LivySession
 - LivyBatch
 
+### Install
+```bash
+pip install livyclient
+```
+
 ---
 &copy; 2019 Deyou Lee <deyoulee@126.com>
